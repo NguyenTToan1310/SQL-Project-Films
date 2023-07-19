@@ -1,6 +1,6 @@
 # SQL-Project-Films
 SQL_Project_100VNfilms_studycase 
-Create 100_VN_Films by open 100_VN_Films_final.sql and execute
+Create 100_VN_Films by open VN_films.sql and execute
 Queries: 
 kết quả câu hỏi 1.sql
 kết quả câu hỏi 2.sql
